@@ -8,4 +8,4 @@
 {zone,[]}.
 {geo_red,[]}.
 {needed_capabilities,[]}.
-{dependencies ,["adder.josca"]}.
+{dependencies ,["adder"]}.
